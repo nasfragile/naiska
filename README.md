@@ -18,12 +18,6 @@ Tech Stack & Tools
 </p>
 
 
-GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=nasfragile&show_icons=true&theme=radical" />
-</p>
-
-
 Let's Connect
 - **LinkedIn:** Naiska Putri Adi Widya (https://linkedin.com/in/naiskaputri)
 - **Email:** naiskaputri@gmail.com
