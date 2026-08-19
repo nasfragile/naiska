@@ -1,4 +1,5 @@
 # naiska
+![Welcome Banner](./welcome.svg)
 
 Hi there, I'm Naiska.
 
